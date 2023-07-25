@@ -16,12 +16,11 @@ Collaborators:
 Install required packages:
 
 ```
-sudo apt-get install python-dev 	# required to install setproctitle
 pip install -r requirements.txt
 ```
 
-This code has been tested with Tensorflow 1.3 and 1.8, CUDA 8.5 and 9.1, Ubuntu 14.04 and 16.04, although we expect it to work with any newer versions of Tensorflow and CUDA.
-
+This code has originally been tested with Tensorflow 1.3 and 1.8, CUDA 8.5 and 9.1, Ubuntu 14.04 and 16.04, although we expect it to work with any newer versions of Tensorflow and CUDA.
+Now the project is based on python 3.7.0, and works on Windows right now
 
 # Running
 
